@@ -1,1 +1,1 @@
-![Metrics](https://github.com/fyzce/fyzce/blob/master/github-metrics.svg)
+unprofessional luau programmer & software developer
